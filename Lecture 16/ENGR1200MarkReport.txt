@@ -1,0 +1,4 @@
+The average mark for the midterm was: 22.9/30.
+Number of marks used for this average: 345
+Highest Mark: 31
+Lowest Mark: 9
